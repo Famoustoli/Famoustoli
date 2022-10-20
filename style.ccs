@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(38, 0, 255);
+
+}
+
+header h1{
+    text-align: center;
+    padding:25px; 
+}
+
+.icon1{
+    width: 600px;
+    height: auto;
+    margin-left: 186px;
+}
+
+main h1{
+    color:darkblue;
+}
+
+.icon2{
+    width: 600px;
+    height: auto;
+    margin-left: 186px;
+}
+
+p{
+    font-size: 35px;
+    color: darkblue;
+}
