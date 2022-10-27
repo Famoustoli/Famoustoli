@@ -32,3 +32,9 @@ p{
     font-size: 35px;
     color: darkblue;
 }
+
+.icon3{
+    width: 600px;
+    height: auto;
+    margin-left: 186px;
+}
