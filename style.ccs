@@ -38,3 +38,8 @@ p{
     height: auto;
     margin-left: 186px;
 }
+
+p{
+    font-size: 35px;
+    color:drakblue;
+}
